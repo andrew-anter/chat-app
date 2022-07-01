@@ -20,4 +20,4 @@ It does not keep any data in a database it just sends and recieves messages betw
 
 ## Running from the Heroku server
 
-You can use this application from [heroku server](https://andrew-anter-node-v3-chat-app.herokuapp.com/) without the need to install anything
+You can use this application from [heroku server](https://andrew-anter-node-v3-chat-app.herokuapp.com/) .
